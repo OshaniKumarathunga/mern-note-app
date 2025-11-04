@@ -1,0 +1,36 @@
+#  MERN Stack Note-taking Application
+
+A full-stack note-taking application built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+This app allows users to **create, edit, delete, and tag notes** efficiently — like a personal knowledge organizer.
+
+
+## 🚀 Features
+
+- ✨ Create, edit, and delete notes  
+- 🏷️ Add and manage tags  
+- 🧩 Filter notes by tags  
+- ⚙️ Backend built with Express and MongoDB  
+- 💻 Frontend built with React + TypeScript + React Router  
+- 🔁 RESTful API integration
+
+
+
+## 🗂️ Tech Stack
+
+**Frontend**
+- React + TypeScript  
+- React Router DOM  
+- Bootstrap 
+
+**Backend**
+- Node.js + Express.js  
+- MongoDB + Mongoose  
+- CORS and dotenv for configuration
+
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/<your-username>/mern-note-app.git
+cd mern-note-app
