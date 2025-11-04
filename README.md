@@ -3,6 +3,8 @@
 A full-stack note-taking application built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
 This app allows users to **create, edit, delete, and tag notes** efficiently — like a personal knowledge organizer.
 
+![App Screenshot](https://github.com/OshaniKumarathunga/mern-note-app/blob/423e3d2d2ed8c27ab8d38a760252f2a97afad6bf/frontend/public/note-app.PNG)
+
 
 ## 🚀 Features
 
